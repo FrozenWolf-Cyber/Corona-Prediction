@@ -11,7 +11,8 @@ You can download the kaggle dataset from [here](https://www.kaggle.com/sudalaira
 ![time_vs_confirmed](https://user-images.githubusercontent.com/57902078/138547878-93359b52-e081-435c-bee5-f3edea2ebf0c.png)
 
 ## Result :
-- Accuracy :
-![accuracy](https://user-images.githubusercontent.com/57902078/138547900-7ada431b-dd89-4ab0-975d-87e461da1bac.png)
-- Prediction :
-![prediction](https://user-images.githubusercontent.com/57902078/138547905-ad783954-11dc-456a-97b7-139db9a9a743.png)
+![accuracy](https://user-images.githubusercontent.com/57902078/138548239-c0995e64-5fef-4a3c-bda4-ed21a8161243.png)
+
+![loss](https://user-images.githubusercontent.com/57902078/138548241-103b88ba-d891-432a-a557-1c7bb85e3acf.png)
+
+![prediction](https://user-images.githubusercontent.com/57902078/138548243-f4162118-4133-4bdc-8029-34ee996ded3b.png)
